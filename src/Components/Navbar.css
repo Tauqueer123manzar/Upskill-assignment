@@ -1,0 +1,45 @@
+.Header {
+    width:1440px;
+    height:45px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.Header h1 {
+    width: 45px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 120px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.Header h2 {
+    width: 45px;
+    height: 24px;
+    font-weight: 500;
+    margin-left: 880px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #992E9D;
+}
+
+.Header button {
+    width: 90px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    font-weight: 500;
+    color: white;
+    background-color:#992E9D;
+    cursor: pointer;
+    margin-right: 110px;
+
+}
+
+/* Responsive for Mobile and Tab */
