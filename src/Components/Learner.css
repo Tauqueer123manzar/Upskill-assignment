@@ -1,0 +1,31 @@
+.course{
+    width: (fixed)1440px;
+    height: 102px;
+    margin-top: 30px;
+    border: 1px;
+    background-color: rgba(249, 235, 252, 1);
+    display: flex;
+    justify-content: space-between;
+    padding: 36px 128px 36px 128px;
+}
+.item{
+    width: 166px;
+    height: 70px;
+    gap: 12px;
+    font-size: 40px;
+    font-family: poppins;
+    font-weight: 500;
+    line-height: 40px;
+    color: rgb(202, 40, 251);
+}
+.item i{
+    font-size: 25px;
+}
+.course span{
+    display: inline-block;
+    margin-left: 30px;
+    font-weight: 200;
+    font-size: 16px;
+    color: gray;
+    gap: 4px;
+}
