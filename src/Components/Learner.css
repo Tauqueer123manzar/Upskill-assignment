@@ -1,12 +1,15 @@
 .course{
-    width: (fixed)1440px;
+    /* width:1240px; */
+    max-width: 100%;
     height: 102px;
     margin-top: 30px;
     border: 1px;
+    margin-right: 0;
     background-color: rgba(249, 235, 252, 1);
     display: flex;
     justify-content: space-between;
     padding: 36px 128px 36px 128px;
+    overflow-x: hidden;
 }
 .item{
     width: 166px;

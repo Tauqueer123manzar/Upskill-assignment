@@ -1,9 +1,10 @@
 .content {
-    width: 766px;
-    height: 565px;
+    max-width: 100%;
+    max-height: fit-content;
     margin-top: 65px;
     margin-left: 128px;
     gap: 32px;
+    overflow-x: hidden;
 }
 
 .content p {
@@ -16,6 +17,7 @@
 }
 
 .header {
+    width: 750px;
     font-size: 60px;
     font-weight: 700;
     font-family: poppins;

@@ -15,17 +15,17 @@ const Course = () => {
                     <hr></hr>
                     <div class="item">
                       <p>MERN Stack
-                      <span>Learn C++ for Strong programming fundamentals.</span></p>
+                      <span>Master the MERN stack for for higher-demand projects.</span></p>
                     </div>
                     <hr></hr>
                     <div class="item">
                       <p>Data Structure and Algorithm
-                      <span>Learn C++ for Strong programming fundamentals.</span></p>
+                      <span>Excel in Data Structure and Algorithms for interview succuess.</span></p>
                     </div>
                     <hr></hr>
                     <div class="item">
                        <p>Competitve Programming
-                       <span>Learn C++ for Strong programming fundamentals.</span></p>
+                       <span>Excel in Data Structure and Algorithms for interview succuess.</span></p>
                     </div>
                 </div>
             </div>
